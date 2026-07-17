@@ -68,9 +68,6 @@ Aplicação desenvolvida com arquitetura MVC para gerenciamento de alunos e curs
   <a href="https://github.com/matheus-fsilva">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheus-fsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/matheus-fsilva">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheus-fsilva&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
-  </a>
 </div>
 
 ---
