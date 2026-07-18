@@ -30,8 +30,6 @@ https://github.com/RenanAlvarado/Catalogo-de-Brinquedos-Back-End.git (Backend)
 
 https://github.com/RenanAlvarado/Catalogo-de-Brinquedos-Front-End.git (Frontend)
 
----
-
 ### 🎓 Sistema Educacional
 **Atuação:** Desenvolvimento Desktop
 
@@ -40,6 +38,8 @@ Aplicação desenvolvida com arquitetura MVC para gerenciamento de alunos e curs
 **Tecnologias:** Java, MySQL e WindowBuilder (Java Swing).
 
 🔗 Repositório: https://github.com/RenanAlvarado/ProjetoMVC_Sistema-Educacional.git
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -61,6 +61,8 @@ Aplicação desenvolvida com arquitetura MVC para gerenciamento de alunos e curs
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://eclipseide.org/)
 [![Spring Tools](https://img.shields.io/badge/Spring%20Tools-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/tools)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+---
 
 ### 📊 Estatísticas do GitHub
 
