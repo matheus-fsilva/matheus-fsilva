@@ -1,6 +1,6 @@
 # Olá, sou Matheus Fernandes 👋🏼🙋🏽‍♂️
 
-Tenho 20 anos e sou estudante do 6° semestre de ADS (Análise e Desenvolvimento de Sistemas) na FATEC Guarulhos 🖥️.
+Tenho 21 anos e sou estudante do 6° semestre de ADS (Análise e Desenvolvimento de Sistemas) na FATEC Guarulhos 🖥️.
 
 ## 💻 Projetos em Destaque
 
